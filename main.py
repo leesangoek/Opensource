@@ -1,4 +1,4 @@
 def calculate(x,y):
-    return x+y
+    return x * y
 
-    ##±è¹Î±Ù
+    ##ï¿½ï¿½Î±ï¿½
